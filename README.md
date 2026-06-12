@@ -1,6 +1,6 @@
 # 🧠 Language Modelling for Well Log Interpretation
 
-A hands-on companion repository for learning language modelling concepts, applied to **petrophysical well log interpretation**. Each module pairs a core NLP/ML concept with a practical well log use case so you build intuition for both domains simultaneously.
+A hands-on companion repository for learning language modelling concepts, applied to **petrophysical well log interpretation**. Each module pairs a core NLP/ML concept with a practical well log use case — so you build intuition for both domains simultaneously.
 
 ---
 
@@ -117,7 +117,7 @@ This repo follows a language modelling curriculum and maps every concept to well
 ```bash
 # Clone the repo
 git clone https://github.com/hafsah2020/Language_Modelling_for_Well_Log_Interpretation.git
-cd <Language_Modelling_for_Well_Log_Interpretation>
+cd Language_Modelling_for_Well_Log_Interpretation
 
 # Create environment
 python -m venv venv
@@ -181,6 +181,8 @@ Corrections, better well log datasets, or alternative geological interpretations
 
 ---
 
-## 📄 License
+## 📄 Attribution & License
 
-MIT
+Course curriculum sourced from [Google DeepMind via Google Skillboost](https://www.skills.google/collections/deepmind). All original course materials, lab structures, and exercises remain the intellectual property of Google DeepMind.
+
+Well log interpretation extensions, petrophysical adaptations, and original notebooks in this repository are original work by [Hafsah Anibaba].
